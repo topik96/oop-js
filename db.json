@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "string": "Hello, World",
+      "id": 1
+    },
+    {
+      "string": "Hello, World",
+      "id": 2
+    },
+    {
+      "string": "Hello, World",
+      "id": 3
+    },
+    {
+      "string": "Hello, World",
+      "id": 4
+    }
+  ]
+}

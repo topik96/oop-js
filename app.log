@@ -1,0 +1,15 @@
+[2018-04-03T12:10:36.100Z] INFO: This is an information about something.
+[2018-04-03T13:21:36.201Z] ERROR: We can't divide any numbers by zero.
+[2018-04-03T16:45:36.210Z] NOTICE: Someone loves your status.
+[2018-04-03T23:40:36.215Z] WARNING: Insufficient funds.
+[2018-04-03T23:56:36.215Z] DEBUG: This is debug message.
+[2018-04-04T04:54:36.102Z] ALERT: Achtung! Achtung!
+[2018-04-04T05:01:36.103Z] CRITICAL: Medic!! We've got critical damages.
+[2018-04-04T05:05:36.104Z] EMERGENCY: System hung. Contact system administrator immediately!
+[2018-04-04T07:07:30.382Z] INFO: hati hati boss
+[2018-04-04T07:14:01.975Z] INFO: this in info
+[2018-04-04T07:14:01.975Z] ALERT: this is alert
+[2018-04-04T07:14:21.761Z] INFO: this in info
+[2018-04-04T07:14:21.762Z] ALERT: this is alert
+[2018-04-04T08:35:50.575Z] ERROR: ini error bosquh
+[2018-04-04T08:56:47.726Z] ERROR: ini error
